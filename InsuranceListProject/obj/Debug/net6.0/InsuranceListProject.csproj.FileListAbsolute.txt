@@ -1,0 +1,15 @@
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\bin\Debug\net6.0\InsuranceListProject.exe
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\bin\Debug\net6.0\InsuranceListProject.deps.json
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\bin\Debug\net6.0\InsuranceListProject.runtimeconfig.json
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\bin\Debug\net6.0\InsuranceListProject.dll
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\bin\Debug\net6.0\InsuranceListProject.pdb
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.csproj.AssemblyReference.cache
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.AssemblyInfoInputs.cache
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.AssemblyInfo.cs
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.dll
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\refint\InsuranceListProject.dll
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.pdb
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\InsuranceListProject.genruntimeconfig.cache
+C:\Users\hp\Dropbox\Programování\OOP\InsuranceListProject\obj\Debug\net6.0\ref\InsuranceListProject.dll
